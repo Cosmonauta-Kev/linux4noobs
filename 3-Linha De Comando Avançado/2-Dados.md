@@ -36,7 +36,7 @@ Acima nos temos um exemplo de uma entrada padrão, para usar o MySql. Os comando
 
 Uma expressão regular é um método formal de se especificar um padrão de texto a ser procurado em um ou mais arquivos.
 
-É uma composição de caracteres com funções especiais, que agrupados entre si com caracteres literais e números, podem formar uma expressão queo shell pode entender e buscar.
+É uma composição de caracteres com funções especiais, que agrupados entre si com caracteres literais e números, podem formar uma expressão que o shell pode entender e buscar.
 
 Geralmente elas são usadas para buscar ou validar texto de coisas como:
 
